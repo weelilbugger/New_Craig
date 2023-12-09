@@ -39,11 +39,7 @@ body {
         background-color: #4f4f4f;
     }
 
-    .cart{
-     margin-top:-80px;
-     margin-bottom:-65px;
-     align-items: left; 
-    }
+    
     .title{
         margin-top:-80px;
         margin-bottom:-35px;
@@ -53,7 +49,8 @@ body {
     }
     ul{
         list-style:none;
-        background-color: #0096B7
+        background-color: #0096B7;
+        border-radius:24px;
     }
 
     li{
@@ -69,3 +66,18 @@ body {
     h3{
         color:black;
     }
+    img{
+        width: 100px;
+        height:75px;
+        padding-left:25px;
+        border-radius:20px;
+    }
+    img.cart{
+        
+         margin-top:-80px;
+            margin-bottom:-65px;
+            align-items: left;
+            width:450;
+            height:400; 
+           }
+    
